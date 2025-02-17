@@ -1,4 +1,4 @@
-YFinance Dashboard 📊
+###YFinance Dashboard 📊
 Este projeto consiste em um Dashboard interativo de ativos da bolsa de valores desenvolvido com Power BI, Python e a biblioteca yfinance para análise e visualização de dados financeiros.
 
 📈 Objetivo
