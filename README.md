@@ -25,3 +25,7 @@ Breve descrição e setor.
 Gráficos de Preço histórico, médias móveis, variação semanal e mensal (%).
 Análise do Volume vs média 30d, volatilidade dos preços, RSI ao longo do tempo e liquidez por ativo.
 Filtros por ativo e período para customizar a análise.
+
+
+https://github.com/user-attachments/assets/2ea7a3b3-8d79-4597-ad73-91fbe2d7d40a
+
