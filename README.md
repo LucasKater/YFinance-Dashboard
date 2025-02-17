@@ -6,8 +6,11 @@ O objetivo deste projeto é criar um dashboard completo e dinâmico para monitor
 
 ### 🛠 Tecnologias Utilizadas
 Power BI: Ferramenta de visualização de dados para criar o dashboard interativo.
+
 Python: Para a extração de dados financeiros através da biblioteca yfinance.
+
 Flask: Utilizado para importar os dados extraídos do Yahoo Finance e integrá-los ao Power BI.
+
 ### 🌟 Funcionalidades
 ###  Tela 1: Overview
 
