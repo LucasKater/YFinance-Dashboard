@@ -1,7 +1,7 @@
 # YFinance Dashboard 📊
 Este projeto consiste em um Dashboard interativo de ativos da bolsa de valores desenvolvido com Power BI, Python e a biblioteca yfinance para análise e visualização de dados financeiros.
 
-📈 Objetivo
+### 📈 Objetivo
 O objetivo deste projeto é criar um dashboard completo e dinâmico para monitorar e analisar dados de ativos da bolsa de valores. A partir dos dados extraídos do Yahoo Finance utilizando a biblioteca yfinance, foram criadas três telas interativas no Power BI que oferecem uma visão detalhada sobre os preços, volumes e desempenho de ações ao longo do tempo.
 
 🛠 Tecnologias Utilizadas
