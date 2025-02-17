@@ -20,7 +20,7 @@ Nome da empresa.
 Ticker do ativo.
 Quantidade de colaboradores.
 Breve descrição e setor.
-Tela 3: Performance Histórica
+### Tela 3: Performance Histórica
 
 Gráficos de Preço histórico, médias móveis, variação semanal e mensal (%).
 Análise do Volume vs média 30d, volatilidade dos preços, RSI ao longo do tempo e liquidez por ativo.
