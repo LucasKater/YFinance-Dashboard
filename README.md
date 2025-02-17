@@ -4,16 +4,16 @@ Este projeto consiste em um Dashboard interativo de ativos da bolsa de valores d
 ### 📈 Objetivo
 O objetivo deste projeto é criar um dashboard completo e dinâmico para monitorar e analisar dados de ativos da bolsa de valores. A partir dos dados extraídos do Yahoo Finance utilizando a biblioteca yfinance, foram criadas três telas interativas no Power BI que oferecem uma visão detalhada sobre os preços, volumes e desempenho de ações ao longo do tempo.
 
-🛠 Tecnologias Utilizadas
+### 🛠 Tecnologias Utilizadas
 Power BI: Ferramenta de visualização de dados para criar o dashboard interativo.
 Python: Para a extração de dados financeiros através da biblioteca yfinance.
 Flask: Utilizado para importar os dados extraídos do Yahoo Finance e integrá-los ao Power BI.
-🌟 Funcionalidades
-Tela 1: Overview
+### 🌟 Funcionalidades
+###  Tela 1: Overview
 
 Gráfico de valor de fechamento da ação.
 Indicadores como RSI, volume por ativo, variação diária, e desvio padrão.
-Tela 2: Profile
+### Tela 2: Profile
 
 Card com informações sobre a empresa, incluindo:
 Nome da empresa.
